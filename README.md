@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/sunils26/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sunilfeb26@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://linusgeek.blogspot.com/"><img alt="Blogspot" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fblogger-logo-icon-png&psig=AOvVaw0N-J3lDTyzVnnju1KjHHYG&ust=1669731693434000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj1_LWJ0fsCFQAAAAAdAAAAABAF" /></a> &nbsp;
 
 ### If you like what I do
-<a href="https://www.buymeacoffee.com/SunilS26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a>
+<a href="https://www.buymeacoffee.com/SunilS26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Follow me for quick updates" width="150" ></a>
 

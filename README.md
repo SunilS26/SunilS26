@@ -25,32 +25,10 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Computer Science and ML Engineer who has spent 5+ years building scalable distributed systems and optimisation engines.\
-🎓 &nbsp;I'm an alumnus of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
-🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
-🛠 &nbsp;My last work project was building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
-🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
-🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
+💡 &nbsp;I'm a Sofware Developer by profession and have Electronics and Communication Enginerring who has years of experience in building scalable distributed systems and optimisation/performance improvization techniques.\
+🛠 &nbsp;I have worked on many Enterise DellEMC Products like PowerPath which is a Multipathing Plugin to various Operating System like VMware ESXi, Linux(RedHat, SuSe),etc. \
+🛠  &nbsp; I have also worked at Intel for some Modem targetted across many countries like Russia, Europe, USA. .etc. 
 ✉️ &nbsp;You can email me at sunilfeb26@gmail.com.
-
-## 🔧 Latest work
-- [Using sensor measurements to predict engine failures](https://github.com/SunilS26/predictive-maintenance)
-- [Macroscopic and mesoscopic analysis of global air transport network](https://github.com/SunilS26/flight-network-analysis)
-
-## &#x270d; Latest posts
-
-- [How I wrote a pipeline abstraction module with one line of code](https://medium.com/locus-iq/how-we-wrote-a-pipeline-abstraction-module-with-one-line-of-code-9d7580d20337)
-
-## 📖 &nbsp; Reading list
-
-- [ ] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
-- [ ] [The Fusion of Unmatched Infrared and Visible Images Based on Generative Adversarial Networks](https://downloads.hindawi.com/journals/mpe/2020/3739040.pdf)
-- [ ] [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v3.pdf)
-- [ ] [FIRe-GAN: A novel Deep Learning-based infrared-visible fusion method for wildfire imagery
-](https://link.springer.com/content/pdf/10.1007/s00521-021-06691-3.pdf)
-- [ ] [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://reader.elsevier.com/reader/sd/pii/S1566253518301143?token=EB8200A47C24B58AFC732FAF25BFC1B82104FCC64549251A5FEEC46A9CEB501205B54576B99E9A19208F9A17A305D355&originRegion=eu-west-1&originCreation=20220718112048)
-- [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
-- [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence)
 
 
 ## 🔧 Technologies & Tools

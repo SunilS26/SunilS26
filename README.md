@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 <a href="https://linusgeek.blogspot.com/"><img alt="Blogspot" src="https://img.shields.io/badge/Blog-Blogger-orange" /></a> &nbsp;
 
 ### If you like what I do
-<a href="" target="_blank"><img src="" alt="Follow me for quick updates" width="150" ></a>
+<a href="https://img.shields.io/badge/Follow-Follow-green" target="_blank"><img src="https://img.shields.io/badge/Follow-Follow-green" alt="Follow me for quick updates" width="150" ></a>
 

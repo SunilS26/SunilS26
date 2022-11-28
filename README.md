@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I'm a Sofware Developer by profession and have Electronics and Communication Enginerring who has some good amount of years of experience in building scalable distributed systems and optimisation/performance improvization across Enterprise Products.\
 🛠 &nbsp;I have worked on many Enterise DellEMC Products like PowerPath which is a Multipathing Plugin to various Operating System like VMware ESXi, Linux(RedHat, SuSe),etc. \
-🛠  &nbsp; I have also worked at Intel for some Modem targetted across many countries like Russia, Europe, USA. .etc. 
+🛠  &nbsp; I have also worked at Intel for Modem development targetted across many countries like Russia, Europe, USA. .etc. 
 ✉️ &nbsp;You can email me at sunilfeb26@gmail.com.
 
 

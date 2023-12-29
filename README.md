@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-
+-- Below gives your github stats in image format i.e, how many pull request, commits
+-- ![Rock] https://github-readme-stats.vercel.app/api?username=sunils26&show_icons=true&theme=radical)
 ## 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/sunils26/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
